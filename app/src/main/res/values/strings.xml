@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Busca País</string>
+
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="seu_nome">Seu nome</string>
+    <string name="seu_email">Seu e-mail</string>
+    <string name="sua_senha">Sua senha</string>
+    <string name="confirme_sua_senha">Confirme sua senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+    <string name="senhas_nao_conferem">Senhas não conferem</string>
+    <string name="email_incorreto">Email incorreto</string>
+    <string name="senha_incorreta">Senha incorreta</string>
+    <string name="carregando">Carregando</string>
+</resources>
